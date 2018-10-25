@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\parin\source\repos\sortestpath\sortestpath\main.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\parin\source\repos\sortestpath\sortestpath\main.cpp(65): warning C4018: '<': signed/unsigned mismatch
+  SortestPath.vcxproj -> C:\Users\parin\source\repos\SortestPath\Debug\SortestPath.exe
